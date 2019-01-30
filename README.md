@@ -16,3 +16,5 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 
 
 python recommender.py
+
+The blog post related to the code https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b
