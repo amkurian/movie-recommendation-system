@@ -5,8 +5,11 @@ The code uses the lightfm recommender system library to train a hybrid content-b
 ##Dependencies
 
 numpy (http://www.numpy.org/)
+
 scipy (https://www.scipy.org/)
+
 lightfm (https://github.com/lyst/lightfm)
+
 Install missing dependencies using pip
 
 ##Usage
